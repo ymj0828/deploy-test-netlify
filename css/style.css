@@ -11,7 +11,7 @@ ul, ol {
   list-style: none;
 }
 body {
-  overflow: none;
+  overflow: hidden;
 }
 
 /* header */
